@@ -34,12 +34,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg"  width="600">
 
-<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
 
 <!--📏LINE-->
 <p align="center">
@@ -67,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   / /     \ \    | NISHANT KUMAR | WEB DEVELPOER    @@
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
@@ -102,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 
-BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
+
 
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
